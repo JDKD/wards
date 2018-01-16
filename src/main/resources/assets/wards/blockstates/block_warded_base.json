@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "normal": { "model": "wards:block_warded_base" }
+  }
+}
